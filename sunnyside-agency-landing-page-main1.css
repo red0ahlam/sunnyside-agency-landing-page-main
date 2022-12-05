@@ -1,16 +1,16 @@
 @font-face {
     font-family: "barlow-semibold";
-    src: url("../fonts/Barlow-SemiBold.ttf");
+    src: url("Barlow-SemiBold.ttf");
 }
 
 @font-face {
     font-family: "fraunces-extrabold";
-    src: url("../fonts/Fraunces-ExtraBold.ttf");
+    src: url("Fraunces-ExtraBold.ttf");
 }
 
 @font-face {
     font-family: "fraunces-semibold";
-    src: url("../fonts/Fraunces-SemiBold.ttf");
+    src: url("Fraunces-SemiBold.ttf");
 }
 
 :root {
